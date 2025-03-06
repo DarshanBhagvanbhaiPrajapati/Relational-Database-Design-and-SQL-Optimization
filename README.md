@@ -1,5 +1,5 @@
 **SQL Database Queries and Schema Development**
-This repository contains a comprehensive collection of SQL queries designed to explore various aspects of relational databases. The project covers a wide range of topics, including:
+This repository contains a comprehensive collection of SQL queries designed  by Me (Darshan Prajapati) to explore various aspects of relational databases. The project covers a wide range of topics, including:
       Database Schema Creation: Designing tables for customers, branches, deposits, and employees.
       Data Manipulation: Inserting, updating, and deleting data using DML commands.
       Data Retrieval: Using DDL commands to create and manage database structures, and DML commands to manipulate data.
