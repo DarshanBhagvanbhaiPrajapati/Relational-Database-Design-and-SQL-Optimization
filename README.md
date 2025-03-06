@@ -30,7 +30,7 @@ To study DDL-create and DML-insert commands.
   >Give account no and amount of customer having account opened between date 'give any date’ and 'give any date’. 
   >Give names of depositors having account at VRCE.
 
-**#ASSI 3**
+#ASSI 3
  >Retrieve all data from employee, jobs and deposit. 
   >Give details of account no. and deposited rupees of customers having account opened between dates 01-01-06 and 25-07-06. 
   >Display all jobs with minimum salary is greater than 4000. 
@@ -49,7 +49,7 @@ To study DDL-create and DML-insert commands.
  >Display the null values of employee and also employee name’s third character should be ‘a’. 
  >What will be output if you are giving LIKE predicate as ‘%\_%’ ESCAPE ‘\’
 
-**#ASSI -4 (To Perform various data manipulation commands, aggregate functions and sorting concept on all created tables.)  **
+#ASSI -4 (To Perform various data manipulation commands, aggregate functions and sorting concept on all created tables.)  
 List total deposit from deposit. 
     >List total loan from karolbagh branch 
    >Give maximum loan from branch vrce.
@@ -74,7 +74,7 @@ List total deposit from deposit.
  >Display the emp_comm in ascending order with null value first and accordingly sort employee salary in descending order. 
  >Display the emp_comm in ascending order with null value last and accordingly sort emp_no in descending order.
 
-**#ASSI-5 (To study Single-row functions. )**
+#ASSI-5 (To study Single-row functions. )
  >Write a query to display the current date. Label the column Date 
  >For each employee, display the employee number, job, salary, and salary increased by 15% and expressed as a whole number. Label the column New Salary 
  >Modify your query no (2) to add a column that subtracts the old salary from the new salary. Label the column Increase 
@@ -86,7 +86,7 @@ List total deposit from deposit.
  >Display the hiredate of emp in a format that appears as Seventh of June 1994 12:00:00 AM. 
  >Write a query to calculate the annual compensation of all employees (sal +comm.)
 
-**#ASSI-6 (Displaying data from Multiple Tables (join)  )**
+#ASSI-6 (Displaying data from Multiple Tables (join)  )
   >Give details of customers ANIL. 
   >Give city as their city name of customers having same living branch.  
   >Write a query to display the last name, department number, and department name for all employees. 
