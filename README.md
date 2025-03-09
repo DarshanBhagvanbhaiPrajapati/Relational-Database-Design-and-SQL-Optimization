@@ -107,4 +107,16 @@ List total deposit from deposit.
  >Write a query to di splay the total salary being paid to each job title, within each department. 
  >Find the average salaries > 2000 for each department without displaying the respective department numbers. 
  >Display the job and total salary for each job with a total salary amount exceeding 3000, in which excludes president and sorts the list by the total salary. 
- >List the branches having sum of deposit more than 5000 and located in city Mumbai. 
+ >List the branches having sum of deposit more than 5000 and located in city Mumbai.
+
+#Assi-8 To solve queries using the concept of sub query. 
+  >Write a query to display the last name and hire date of any employee in the same department as SCOTT. Exclude SCOTT 
+  >Give name of customers who are depositors having same branch city of mr. sunil. 
+  >Give deposit details and loan details of customer in same city where pramod is living. 
+  >Create a query to display the employee numbers and last names of all employees who earn more than the average salary. Sort the results in ascending order of salary. 
+  >Give names of depositors having same living city as mr. anil and having deposit amount greater than 2000 
+  >Display the last name and salary of every employee who reports to ford. 
+  >Display the department number, name, and job for every employee in the Accounting department. 
+  >List the name of branch having highest number of depositors. 
+  >Give the name of cities where in which the maximum numbers of branches are located. 
+  >Give name of customers living in same city where maximum depositors are located. 
